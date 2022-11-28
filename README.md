@@ -12,4 +12,4 @@
 - Create a new route and edit the parameters **Name**, **Protocols**, and **Paths** to ``electric-fish``, ``http``, and ``/electric-fish`` respectively
 
 - Open a new tab and enter ``http://localhost:8000/electric-fish`` in the address bar
-- This should be your final [![outcome](https://github.com/AshFernandes-IW/docker-build-in-kong/blob/main/fish.png)]
+- This should be your final outcome ![outcome](https://github.com/AshFernandes-IW/docker-build-in-kong/blob/main/fish.png)

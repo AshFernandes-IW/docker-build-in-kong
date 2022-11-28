@@ -5,7 +5,7 @@
 - Open a terminal in the repository directory and type `docker-compose up`
 - The docker container with Kong installed should now be running
 
-### How to access Kong Manager
+### Electric Fish example
 - Open up your web browser and type ``localhost:8002``
 - Scroll down and access the **default workspace**
 - Create a new service and edit the parameters **host** and **path** to ``en.wikipedia.org`` and ``/wiki/Electric_fish`` respectively

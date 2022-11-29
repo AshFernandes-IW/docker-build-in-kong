@@ -1,6 +1,6 @@
 ## Installation Instructions
 
-- Ensure the latest version of Docker is installed: https://www.docker.com/products/docker-desktop/
+- This tutorial assumes you have the latest version of [Docker](https://docs.docker.com/get-docker/) installed for your system.
 - Clone the repository from GitHub
 - Open a terminal in the repository directory and type `docker-compose up`
 - The docker container with Kong installed should now be running
